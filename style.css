@@ -929,6 +929,22 @@ font-family: 'Merriweather', serif; */
 	opacity: 100%;
 }
 
+.content-contact-box-block-single{
+	overflow: hidden;
+}
+
+.content-skills-box-block-twice{
+	overflow: hidden;
+}
+
+.content-contact-box{
+	overflow: hidden;
+}
+
+.content-inner{
+	overflow: hidden;
+}
+
 .content-contact{
 	overflow: hidden;
 }
