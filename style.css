@@ -1228,10 +1228,9 @@ font-family: 'Merriweather', serif; */
 	.input{
 		margin-bottom: 10px;
 		height: 140px;
-		width: 99%;
 		border-radius: 0;
 		border: 0;
-		border-bottom: 1px solid black;
+		border-bottom: 2px solid black;
 	}
 
 	input{
@@ -1241,9 +1240,11 @@ font-family: 'Merriweather', serif; */
 	#btn{
 		margin-top: 100px;
 		font-size: 60px;
+		margin-bottom: 10px;
 		height: 140px;
-		width: 99%;
+		border-radius: 0;
 	}
+
 
 	.mail-null{
 		margin-bottom: 10px;
