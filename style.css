@@ -4,10 +4,18 @@ font-family: 'Merriweather', serif; */
 
 body{
 	font-family: 'Merriweather', serif;
-   	margin: 0;
-   	padding: 0;
+    margin: 0;
+    padding: 0;
 	background-color: #23214cec;
+/*background: rgb(213,201,177);
+background: radial-gradient(circle, rgba(213,201,177,1) 0%, rgba(103,76,63,1) 100%);*/
+	/* background: url('https://static.vecteezy.com/system/resources/previews/000/613/938/original/cute-cats-vector-pattern-background-fun-doodle-handmade-vector-illustration.jpg'); */
 }
+
+/* h1{
+	/* margin: 0; */
+	/* padding: 0; */
+/* } */ 
 
 header{
 	font-family: 'Josefin Sans', sans-serif;
@@ -924,9 +932,6 @@ font-family: 'Merriweather', serif; */
 @media only screen and (max-width: 1085px) {
 
 	.box{
-		position: inherit;
-		height: 60px;
-		width: 750px;
 		display: none;
 	}
 
@@ -960,9 +965,6 @@ font-family: 'Merriweather', serif; */
 
 	.box h1{
 		display: none;
-		position: inherit;
-		font-size: 95px;
-		word-break: break-all;
 	}
 
 	.content-box-nav-right{
